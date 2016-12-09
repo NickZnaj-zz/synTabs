@@ -19,7 +19,7 @@
   "directories": {},
   "license": "MIT",
   "main": "./index.js",
-  "name": "synTabs",
+  "name": "syn-tabs",
   "optionalDependencies": {},
   "peerDependencies": {
   }
