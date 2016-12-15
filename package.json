@@ -11,8 +11,8 @@
     "recompose": "^0.20.2",
     "simple-assign": "^0.1.0",
     "warning": "^3.0.0",
-    "react": "15.4.1",
-    "react-dom": "15.4.1",
+    "react": "15.4.0",
+    "react-dom": "15.4.0",
     "react-tap-event-plugin": "^1.0.0"
   },
   "directories": {},
@@ -21,8 +21,8 @@
   "name": "syn-tabs",
   "optionalDependencies": {},
   "peerDependencies": {
-    "react": "15.4.1",
-    "react-dom": "15.4.1",
+    "react": "15.4.0",
+    "react-dom": "15.4.0",
     "react-tap-event-plugin": "^1.0.0"
   }
 }
