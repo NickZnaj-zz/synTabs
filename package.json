@@ -21,8 +21,5 @@
   "name": "syn-tabs",
   "optionalDependencies": {},
   "peerDependencies": {
-    "react": "15.4.0",
-    "react-dom": "15.4.0",
-    "react-tap-event-plugin": "^1.0.0"
   }
 }
